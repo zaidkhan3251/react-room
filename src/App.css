@@ -1,0 +1,12 @@
+.box{
+  height: 100vh;
+  background-color: aqua;
+}
+.lit{
+  background-color: aliceblue;
+  color: black;
+}
+.dark{
+  background-color: black;
+  color: aliceblue;
+}
